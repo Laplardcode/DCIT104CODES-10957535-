@@ -2,7 +2,7 @@
 public class main {
 
     public static void main(String[] args) {
-        int n = 1000;
+        int n = 10000;
 
         int sum = 0, count = 0;
 
